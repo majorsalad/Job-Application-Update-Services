@@ -16,4 +16,7 @@ Click the index.html file while all the files are within your directory.
 - My graphic designing skills improved as I was able to create a web app logo with photo-editing skills
 - Learned how to work in a team and how to pace myself
 
+# Credit to teammates:
+Aashwin, Hirambh, and Marco were the teammates that helped guide me and work towards completing this project together.
+
 
