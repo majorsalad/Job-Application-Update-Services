@@ -6,7 +6,7 @@ One part of the project was supposed to be a Chrome Extension extracting job app
 - Running the Python code:
 Run the ReadEmail1test.ipynb file after updating your credentials (as of right now only works statically, so one user at a time). The python code will parse the data from your Gmail and retrieve all job application related emails. 
 - Viewing the Web Application:
-Click the index.html file while all the files are within your directory.
+Click the index.html file while all the files are within your directory or click this link: https://majorsalad.github.io/Job-Application-Update-Services/
 
 # What I learned
 - I learned a little bit about using the Google API, specifically Gmail API
